@@ -29,7 +29,7 @@ library(datasauRus)
 # - Mesma média de X e Y
 # - Mesmo desvio-padrão de X e Y
 # - Mesma correlação
-# - Mesma linha de regressão
+# - Mesma linha de regress
 #
 # Porém, os gráficos revelam padrões COMPLETAMENTE DIFERENTES!
 
